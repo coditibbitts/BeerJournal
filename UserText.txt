@@ -1,0 +1,30 @@
+Blood Transfusion
+Blood Orange IPA
+Yellowish Orange
+7.6
+83.0
+Old Rasputin
+Russian Imperial Stout
+Dark Brown
+8.5
+73.0
+PBR
+Light Yellow
+American Lager
+5.3
+43.0
+Modelo
+Mexican Lager
+Pale Yellow
+4.2
+48.0
+Something Else
+Dark Yellow
+Lemon Lime IPA
+7.8
+76.0
+Hops Kill Racists
+Dark Red
+Alaskan Red Ale
+5.5
+75.0
